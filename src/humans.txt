@@ -1,0 +1,14 @@
+
+/* TEAM */
+
+Web Developer: Juan E. Jimenez
+Site: https://github.com/jenriquejr
+Twitter: https://twitter.com/jenriquejr
+Location: Santiago, Dominican Republic
+
+/* SITE */
+
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
